@@ -20,7 +20,7 @@ from rich.console import Console
 from rich.terminal_theme import TerminalTheme
 from rich.text import Text
 
-from nbpreview import notebook
+from nbpreview_rtlabs import notebook
 
 
 def _override_notebook(notebook_dict: Dict[str, Any], override: Dict[str, Any]) -> None:

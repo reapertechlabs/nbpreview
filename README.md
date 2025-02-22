@@ -3,6 +3,8 @@
 ![nbpreview light logo](https://github.com/paw-lu/nbpreview/raw/main/docs/_static/images/logo_light.svg#gh-light-mode-only)
 ![nbpreview dark logo](https://github.com/paw-lu/nbpreview/raw/main/docs/_static/images/logo_dark.svg#gh-dark-mode-only)
 
+**NOTE: Fork to enable updating various elements for current python versions, latest libraries etc to ensure security patch compliance**
+
 # nbpreview
 
 <!-- title-end -->
